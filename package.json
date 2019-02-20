@@ -1,6 +1,6 @@
 {
   "title": "Resume",
-  "name": "Tiffany Zhong Resume",
+  "name": "startbootstrap-resume",
   "version": "5.0.4",
   "scripts": {
     "start": "gulp watch"
